@@ -2,7 +2,7 @@
 //
 // This command runs a http handler using http.HandlerFunc. This is a small demo related to my [article on handler func] 👨‍🎤.
 //
-// There is an executable `main.go` that contains a demo.
+// There is an executable `main.go` that contains the demo code.
 //
 // # Notes
 //
