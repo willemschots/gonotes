@@ -1,10 +1,11 @@
 // # Using context.Context
 //
 // This command explores context functionality. This is a small demo related to my articles on context.Context:
-// - [Context cancellation explained].
-// - [Choosing between context.TODO and context.Background](https://www.willem.dev/articles/context-todo-or-background/).
-// - [How to add values to context](https://www.willem.dev/articles/how-to-add-values-to-context/).
-// - [What values to store in contexts](https://www.willem.dev/articles/what-values-store-in-context/).
+//
+//   - [Context cancellation explained].
+//   - [Choosing between context.TODO and context.Background].
+//   - [How to add values to context].
+//   - [What values to store in contexts].
 //
 // # Notes
 //
